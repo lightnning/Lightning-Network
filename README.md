@@ -1,2 +1,2 @@
 # Lightning-Network
-Lightning-Network学習
+Lightning-Networkの学習
