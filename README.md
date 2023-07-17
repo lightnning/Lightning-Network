@@ -1,2 +1,3 @@
 # Lightning-Network
-Lightning-Networkの学習
+Lightning-Networkの学習  
+https://dhwiki.notion.site/
