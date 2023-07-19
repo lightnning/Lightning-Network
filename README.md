@@ -12,4 +12,6 @@
     - [ ] Wallet of Satoshiに送金してインバウンドキャパシティを合成する
 ### Lightning ノードの情報
 - AMBOSS https://amboss.space/
-- 1ML https://1ml.com/node/  
+- 1ML https://1ml.com/node/
+- [DiamondHands](https://amboss.space/node/035b1ff29e8db1ba8f2a4f4f95db239b54069cb949b8cde329418e2a83da4f1b30)
+  
