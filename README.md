@@ -10,3 +10,6 @@
     - [ ] charge-lndでDHメソッドの手数料設定   
     - [ ] ホワイトリストから3つノードを選択して**チャネル開設**  
     - [ ] Wallet of Satoshiに送金してインバウンドキャパシティを合成する
+### Lightning ノードの情報
+- AMBOSS https://amboss.space/
+- 1ML https://1ml.com/node/  
