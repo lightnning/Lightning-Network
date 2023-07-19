@@ -14,4 +14,6 @@
 - AMBOSS https://amboss.space/
 - 1ML https://1ml.com/node/
 - [DiamondHands](https://amboss.space/node/035b1ff29e8db1ba8f2a4f4f95db239b54069cb949b8cde329418e2a83da4f1b30)
+### AMBOSS
+- AMBOSSアカウントにログインする方法 https://spotlight.soy/detail?article_id=5rnd4mygy  
   
