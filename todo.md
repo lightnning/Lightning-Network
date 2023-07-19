@@ -1,4 +1,4 @@
-[ライトニングルーティング自動運用で目指せ年利1%【DHメソッド5.0】](https://spotlight.soy/detail?article_id=7fxyt008x)  
+[ライトニングルーティング自動運用で目指せ年利1%【DHメソッド5.0】](https://spotlight.soy/detail?article_id=7fxyt008x){:target="_blank"}  
 
 - [x] コミュニティノード参加フォームに記入  
 - [x] aa0.1BTC以上のビットコインを用意  
