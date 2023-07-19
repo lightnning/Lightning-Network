@@ -1,6 +1,6 @@
 [ライトニングルーティング自動運用で目指せ年利1%【DHメソッド5.0】](https://spotlight.soy/detail?article_id=7fxyt008x){:target="_blank"}  
 [侍エンジニアブログ](https://www.sejuku.net/blog/){:target="_blank"}  
-<a href="URL" target="_blank" rel="noopener noreferrer">リンク先の説明</a>
+<a href="https://spotlight.soy/detail?article_id=7fxyt008x" target="_blank" rel="noopener noreferrer">ライトニングルーティング自動運用で目指せ年利1%【DHメソッド5.0】</a>
 
 - [x] コミュニティノード参加フォームに記入  
 - [x] aa0.1BTC以上のビットコインを用意  
